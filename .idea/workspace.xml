@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ChangeListManager">
     <list default="true" id="42f6ce9e-165a-4fb8-8688-e6a98f169cb5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +36,8 @@
       </RecentBranches>
     </option>
   </component>
+=======
+>>>>>>> 17a3c84b7324635a2b041c7b58f8feb06ceadd3c
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -43,6 +46,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="2Bs4jgb27FDuZd4ZsOP0dTp2oZw" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
@@ -85,5 +89,9 @@
         </entry>
       </map>
     </option>
+=======
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+>>>>>>> 17a3c84b7324635a2b041c7b58f8feb06ceadd3c
   </component>
 </project>
